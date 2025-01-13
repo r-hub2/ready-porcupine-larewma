@@ -1,0 +1,12 @@
+Package: larewma
+Type: Package
+Title: Statistical process control based on Least Angle Regression
+Version: 1.0
+Date: 2010-02-16
+Author: Fabio Centofanti
+Maintainer: Fabio Centofanti <fabio.centofanti@kuleuven.be>
+Description: Implementation of the LAR-EWMA control chart: a multivariate EWMA based on the Least Angle Regression (LAR) algorithm. This control chart is designed for Phase II monitoring of both mean and dispersion of multidimensional normal processes. For given in-control process parameters and desired in-control ARL, package provides functions for computing the decision interval, simulating  the run-length distribution and applying the control chart to real data.
+License: LGPL (>=2)
+LazyLoad: yes
+Packaged: 2025-01-13 22:43:52 UTC; fabio
+NeedsCompilation: yes

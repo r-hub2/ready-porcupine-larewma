@@ -1,0 +1,2 @@
+export(larewma,larewma.simrl,larewma.apply)
+useDynLib(larewma)
